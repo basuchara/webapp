@@ -1,0 +1,23 @@
+{
+  "name": "basuchara",
+  "version": "4.9.0",
+  "description": "This is the project",
+  "main": "app.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "Basanta Raj Ghimire",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "expres": "0.0.5"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/basuchara/webapp.git"
+},
+  
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
